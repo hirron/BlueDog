@@ -1,0 +1,26 @@
+{
+  "name": "bluedog",
+  "version": "1.0.0",
+  "description": "Software that allows numerous users to define use case specifications for various projects they are members of",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirron/BlueDog.git"
+  },
+  "keywords": [
+    "bluedog"
+  ],
+  "author": "Eric Rojo, Quinn Paterson, Devlin Wyatt, Mojtaba M, and Reece Pretorius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirron/BlueDog/issues"
+  },
+  "homepage": "https://github.com/hirron/BlueDog#readme",
+  "dependencies": {
+    "express": "~4.16.4",
+    "mongo-express": "~0.49.0"
+  }
+}
