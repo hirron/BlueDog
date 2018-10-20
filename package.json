@@ -21,6 +21,9 @@
   "homepage": "https://github.com/hirron/BlueDog#readme",
   "dependencies": {
     "express": "~4.16.4",
-    "mongo-express": "~0.49.0"
+    "mongo-express": "~0.49.0",
+    "mongoose": "^5.3.4",
+    "pg-promise": "^8.5.1",
+    "typescript": "^3.1.3"
   }
 }
